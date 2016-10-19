@@ -1,0 +1,12 @@
+{
+  "name": "Learn_react",
+  "version": "0.0.1",
+  "description": "Learn React from Egghead.io",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/dhruv222/learn_react",
+    "type": "git"
+  },
+  "author": "Dhruv Sharma",
+  "license": "UNLICENSED"
+}
